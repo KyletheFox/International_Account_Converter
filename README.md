@@ -15,5 +15,5 @@ Currently there are no links to my app from my home page to the app.
 Please use: http://kyle.oneill.com/bank_app/bank.html
 
 Thank You
-Kyle
+
 
