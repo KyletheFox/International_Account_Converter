@@ -7,3 +7,13 @@ http://openexchangerates.org. The api provides update currency exchange rates fr
 165 different countries. My app pulls the data from the api and determines what you
 bank account balance would look like if you were living in that country.
  
+Please visit my website to see it in action
+http://kle-oneill.com/
+
+---- Important -----
+Currently there are no links to my app from my home page to the app.
+Please use: http://kyle.oneill.com/bank_app/bank.html
+
+Thank You
+Kyle
+
